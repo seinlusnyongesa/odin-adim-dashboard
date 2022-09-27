@@ -147,7 +147,7 @@ body {
   display: grid;
   grid-template-columns: 3fr 1fr;
   padding: 1rem;
-  gap: 10px;
+  gap: 1rem;
   background: var(--main-bg);
 }
 
@@ -164,7 +164,7 @@ body {
 .projects-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, auto));
-  gap: 0.5rem;
+  gap: 1.5rem;
 }
 
 .project {
